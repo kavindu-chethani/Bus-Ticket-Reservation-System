@@ -1,1 +1,2 @@
-# OOP-Project(Bus reservation system)
+# OOP-Project
+#Bus Ticket Reservation System
